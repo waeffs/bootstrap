@@ -4,7 +4,8 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-
+.bootstrap-scope {
+  
 @import "functions";
 @import "variables";
 @import "mixins";
@@ -40,3 +41,5 @@
 @import "carousel";
 @import "spinners";
 @import "utilities";
+
+}
